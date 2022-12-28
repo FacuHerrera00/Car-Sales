@@ -1,2 +1,21 @@
-# Car-Sales
-Primer proyecto para Coderhouse-Data Science. Trataremos de predecir la suba de precios de los autos más vendidos, ver la existencia de una predominancia de ventas en coches sedan y la probabilidad que perdure en el tiempo. Si la seguridad es un factor importante en el momento de comprar un vehículo y si en un futuro los coches con turbo tendrán más importancia.
+# Car Price Prediction
+This project is a solution for the auto price prediction competition on page XYZ.
+
+## Project Description
+The goal of this project is to develop a machine learning model that can predict the sale price of a car based on certain vehicle characteristics. To do this, a dataset will be used that includes information about various cars, such as the year, brand, model, mileage and other features.
+
+## Requirements
+To use this project, you must have the following tools and libraries installed:
+
+Colab
+NumPy
+Matplotlib
+Pandas
+Seaborn
+Scikit-learn
+
+## Author
+[Facundo Herrera]
+
+## License
+https://machinehack.com/hackathons/data_hack_mathcothon_car_price_prediction_challenge/
