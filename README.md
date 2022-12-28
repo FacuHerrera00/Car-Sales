@@ -7,12 +7,12 @@ The goal of this project is to develop a machine learning model that can predict
 ## Requirements
 To use this project, you must have the following tools and libraries installed:
 
-Colab
-NumPy
-Matplotlib
-Pandas
-Seaborn
-Scikit-learn
+* Colab
+* NumPy
+* Matplotlib
+* Pandas
+* Seaborn
+* Scikit-learn
 
 ## Author
 [Facundo Herrera]
