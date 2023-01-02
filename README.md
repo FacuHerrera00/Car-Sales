@@ -16,6 +16,3 @@ To use this project, you must have the following tools and libraries installed:
 
 ## Author
 [Facundo Herrera]
-
-## License
-https://machinehack.com/hackathons/data_hack_mathcothon_car_price_prediction_challenge/
